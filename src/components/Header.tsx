@@ -24,13 +24,13 @@ const Header: VFC = () => (
 
         <nav className="hidden gap-12 lg:flex">
           <a
-            href="#"
+            href="/"
             className="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
           >
             Home
           </a>
           <a
-            href="#"
+            href="/"
             className="inline-flex items-center gap-1 text-lg font-semibold text-indigo-500"
           >
             Features
@@ -48,13 +48,13 @@ const Header: VFC = () => (
             </svg>
           </a>
           <a
-            href="#"
+            href="/"
             className="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
           >
             Pricing
           </a>
           <a
-            href="#"
+            href="/"
             className="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
           >
             About
@@ -63,14 +63,14 @@ const Header: VFC = () => (
 
         <div className="-ml-8 hidden flex-col gap-2.5 sm:flex-row sm:justify-center lg:flex lg:justify-start">
           <a
-            href="#"
+            href="/"
             className="inline-block rounded-lg px-4 py-3 text-center text-sm font-semibold text-gray-500 outline-none ring-indigo-300 transition duration-100 hover:text-indigo-500 focus-visible:ring active:text-indigo-600 md:text-base"
           >
             Sign in
           </a>
 
           <a
-            href="#"
+            href="/"
             className="inline-block rounded-lg bg-indigo-500 px-8 py-3 text-center text-sm font-semibold text-white outline-none ring-indigo-300 transition duration-100 hover:bg-indigo-600 focus-visible:ring active:bg-indigo-700 md:text-base"
           >
             Sign up
@@ -100,7 +100,7 @@ const Header: VFC = () => (
       <div className="hidden w-full overflow-hidden rounded-lg border bg-gray-50 shadow-sm lg:block">
         <div className="mx-auto flex max-w-screen-lg items-center gap-8 p-8">
           <div className="grid w-2/3 grid-cols-2 gap-8">
-            <a href="#" className="group flex gap-4">
+            <a href="/" className="group flex gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-indigo-500 text-white shadow-lg transition duration-100 group-hover:bg-indigo-600 group-active:bg-indigo-700 md:h-12 md:w-12">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -127,7 +127,7 @@ const Header: VFC = () => (
               </div>
             </a>
 
-            <a href="#" className="group flex gap-4">
+            <a href="/" className="group flex gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-indigo-500 text-white shadow-lg transition duration-100 group-hover:bg-indigo-600 group-active:bg-indigo-700 md:h-12 md:w-12">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -154,7 +154,7 @@ const Header: VFC = () => (
               </div>
             </a>
 
-            <a href="#" className="group flex gap-4">
+            <a href="/" className="group flex gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-indigo-500 text-white shadow-lg transition duration-100 group-hover:bg-indigo-600 group-active:bg-indigo-700 md:h-12 md:w-12">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -181,7 +181,7 @@ const Header: VFC = () => (
               </div>
             </a>
 
-            <a href="#" className="group flex gap-4">
+            <a href="/" className="group flex gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-indigo-500 text-white shadow-lg transition duration-100 group-hover:bg-indigo-600 group-active:bg-indigo-700 md:h-12 md:w-12">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -219,7 +219,7 @@ const Header: VFC = () => (
               </p>
 
               <a
-                href="#"
+                href="/"
                 className="inline-block shrink-0 rounded-lg border bg-white px-3 py-1 text-sm font-semibold text-indigo-500 outline-none ring-indigo-300 transition duration-100 hover:bg-gray-50 focus-visible:ring active:bg-gray-100"
               >
                 More
